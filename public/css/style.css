@@ -272,9 +272,9 @@ body {
 }
 
 .base--h1, .base--STYLED h1 {
-  font-size: 4.44141em;
-  font-weight: 700;
-  color: #325c80;
+  font-size: 5.44141em;
+  font-weight: 800;
+  color: #f88c26;
 }
 
 @media (min-width: 500px) {
@@ -286,7 +286,9 @@ body {
 .base--h2, .base--STYLED h2 {
   font-size: 1.95312em;
   font-weight: 700;
-  color: #d74108;
+  color: #ffffff;
+  background-color: #ad1829;
+  text-align: center;
 }
 
 .base--h3, .base--STYLED h3 {
@@ -508,8 +510,8 @@ body {
   padding: 0.5em 1em;
   color: white;
   font-weight: bold;
-  background-color: #325c80;
-  border: 2px solid #325c80;
+  background-color: #32803f;
+  border: 2px solid #f5841b;
   display: inline-block;
 }
 
@@ -952,7 +954,7 @@ pre[class^="language-"]>code[class^="language-"], pre[class^="language-"]>code[c
 @media (min-width: 1200px) {
   .banner--service-container {
     width: 74.46809%;
-    margin-left: 0%;
+    margin-left: 35%;
     margin-right: 2.12766%;
     float: left;
     display: block;
@@ -2435,8 +2437,8 @@ pre[class^="language-"]>code[class^="language-"], pre[class^="language-"]>code[c
 
 ._demo--banner {
   margin-top: 0;
-  background-color: #f4f4f4;
-  border-bottom: 2px solid #ececec;
+  background-color: #0f0e0e;
+  border-bottom: 12px solid #dd820a;
 }
 
 ._content {
