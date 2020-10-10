@@ -953,12 +953,14 @@ pre[class^="language-"]>code[class^="language-"], pre[class^="language-"]>code[c
 
 @media (min-width: 1200px) {
   .banner--service-container {
-    width: 74.46809%;
-    margin-left: 35%;
-    margin-right: 2.12766%;
+    width: 50%;
+    margin-left: 30%;
+    margin-right: 0%;
+    
     float: left;
     display: block;
-    margin-top: 0rem;
+    margin-top: 1rem;
+    text-align: center;
   }
 }
 
