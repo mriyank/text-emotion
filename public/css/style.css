@@ -244,6 +244,10 @@ td, th {
 html {
   box-sizing: border-box;
 }
+div.imagex {
+  content:url(https://raw.githubusercontent.com/mriyank/image_classification/master/head.png);
+  width: 100%;
+}​
 
 *, *:before, *:after {
   box-sizing: inherit;
@@ -320,7 +324,9 @@ body {
   font-weight: 400;
   color: #5a5a5a;
 }
-
+.headmain{
+  width: auto;
+}
 .base--input, .base--STYLED input:not([type]), .base--color-input, .base--STYLED input[type="color"], .base--date-input, .base--STYLED input[type="date"], .base--datetime-local-input, .base--STYLED input[type="datetime-local"], .base--email-input, .base--STYLED input[type="email"], .base--file-input, .base--STYLED input[type="file"], .base--hidden-input, .base--STYLED input[type="hidden"], .base--month-input, .base--STYLED input[type="month"], .base--number-input, .base--STYLED input[type="number"], .base--password-input, .base--STYLED input[type="password"], .base--range-input, .base--STYLED input[type="range"], .base--search-input, .base--STYLED input[type="search"], .base--tel-input, .base--STYLED input[type="tel"], .base--text-input, .base--STYLED input[type="text"], .base--time-input, .base--STYLED input[type="time"], .base--url-input, .base--STYLED input[type="url"], .base--week-input, .base--STYLED input[type="week"], .base--select, .base--STYLED select {
   width: 100%;
   padding: 0.6em 1em;
