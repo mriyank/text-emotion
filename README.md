@@ -1,1 +1,1 @@
-# text-emotion-detector
+# Text Emotion Detector
